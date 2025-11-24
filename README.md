@@ -1,7 +1,6 @@
 # Anexos Técnicos: Proyecto de Título
 
 Estudiante: Diego Felipe Arecco Guttmann
-Carrera: Ingeniería Comercial  
 Fecha: 2025
 
 ## Descripción
