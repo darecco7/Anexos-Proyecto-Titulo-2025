@@ -1,7 +1,7 @@
 # Anexos Técnicos: Proyecto de Título
 
-Estudiante: Diego Felipe Arecco Guttmann
-Fecha: 2025
+**Estudiante:** Diego Felipe Arecco Guttmann
+**Fecha:** 2025
 
 ## Descripción
 Este repositorio contiene el código fuente SQL utilizado para el procesamiento de datos mencionado en el informe de práctica. Debido a la extensión de las consultas, se alojan aquí para facilitar su lectura y revisión técnica.
